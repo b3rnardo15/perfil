@@ -34,8 +34,8 @@
 
 <h3 align="left">Estatísticas do GitHub:</h3>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b3rnardo15&show_icons=true&locale=en&layout=compact" alt="Línguas" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b3rnardo15&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" alt="Línguas" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=b3rnardo15&show_icons=true&locale=en" alt="Estatísticas" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=b3rnardo15&show_icons=true&locale=en&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" alt="Estatísticas" />
 </p>
